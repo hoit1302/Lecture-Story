@@ -1,9 +1,6 @@
 # Lecture_Story
-New Lecture Review Forum
-박주은 1971019
-최수정 1971051
-이진경 1971039
-강민지 1971002
+New Lecture Review Forum<br>
+개발에 참여한 사람: 박주은, 최수정, 이진경, 강민지
 
 https://lecture-story.firebaseapp.com/
 
