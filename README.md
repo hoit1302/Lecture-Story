@@ -4,7 +4,7 @@ New Lecture Review Forum<br>
 ## 요약
 **개발에 참여한 사람**: 박주은(hoit1302), 최수정(sujeong000), 이진경(dooli1971039), 강민지(mminjg)<br>
 **개발 기간**: 5일(12시간 이상) + 유지보수 3일(3-4시간)<br>
-**개발 언어, 서비스**: React, Firebase<br>
+**개발 언어, 서비스**: HTML, CSS, JavaScript, Firebase<br>
 **deploy**: https://lecture-story.firebaseapp.com/<br>
 **호환 브라우저**: chrome<br>
 
